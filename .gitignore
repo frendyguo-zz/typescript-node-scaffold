@@ -1,0 +1,7 @@
+.idea/
+*.lock
+*.log
+node_modules
+build
+lib
+dist
